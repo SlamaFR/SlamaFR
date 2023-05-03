@@ -9,14 +9,14 @@ As a developer, I created an organization called **[Black Kamelia](https://git.b
 ### Techs
 
 [![Techs icons](https://skillicons.dev/icons?i=kotlin,java,ts,js,css,sass,html,c,python,php,mysql,postgres,redis,kafka,bash,regex,latex&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
-[![Techs icons](https://skillicons.dev/icons?i=kotlin,java,ts,js,css,sass,html,c,python,php,mysql,postgres,redis,kafka,bash,regex,latex&theme=light#gh-light-mode-only)](#gh-dark-mode-only)
+[![Techs icons](https://skillicons.dev/icons?i=kotlin,java,ts,js,css,sass,html,c,python,php,mysql,postgres,redis,kafka,bash,regex,latex&theme=light#gh-light-mode-only)](#gh-light-mode-only)
 
 ### Frameworks
 
 [![Frameworks icons](https://skillicons.dev/icons?i=ktor,spring,hibernate,nuxt,vue,react,mui,tailwind,vite,webpack,laravel&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
-[![Frameworks icons](https://skillicons.dev/icons?i=ktor,spring,hibernate,nuxt,vue,react,mui,tailwind,vite,webpack,laravel&theme=light#gh-light-mode-only)](#gh-dark-mode-only)
+[![Frameworks icons](https://skillicons.dev/icons?i=ktor,spring,hibernate,nuxt,vue,react,mui,tailwind,vite,webpack,laravel&theme=light#gh-light-mode-only)](#gh-light-mode-only)
 
 ### Tools
 
 [![Tools icons](https://skillicons.dev/icons?i=idea,vscode,androidstudio,gradle,maven,cmake,docker,jenkins,postman&theme=dark#gh-dark-mode-only)](#gh-dark-mode-only)
-[![Tools icons](https://skillicons.dev/icons?i=idea,vscode,androidstudio,gradle,maven,cmake,docker,jenkins,postman&theme=light#gh-light-mode-only)](#gh-dark-mode-only)
+[![Tools icons](https://skillicons.dev/icons?i=idea,vscode,androidstudio,gradle,maven,cmake,docker,jenkins,postman&theme=light#gh-light-mode-only)](#gh-light-mode-only)
