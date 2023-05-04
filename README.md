@@ -1,10 +1,8 @@
 # 🥖 Bonjour !
 
-I'm **Irwin Madet**, a french developer. I have a passion for creating full-stack applications that are well-crafted and executed flawlessly.
+I'm Irwin Madet, a French developer with a passion for crafting flawless full-stack applications. I enjoy challenging myself creatively through tinkering with new projects. When not coding, I work on DIY projects. 
 
-I enjoy spending my time tinkering with new projects, and always look for ways to challenge myself creatively. When I'm not coding, you can usually find me working on DIY projects around the house.
-
-As a developer, I created an organization called **[Black Kamelia](https://git.black-kamelia.com)** with friends of mine, where we create high-quality applications and libraries that simplify certain tasks.
+I co-founded **[Black Kamelia](https://git.black-kamelia.com)** with some friends to develop high-quality apps and libraries for simplifying tasks.
 
 ### Techs
 
